@@ -8,6 +8,7 @@ If you’re looking to get Structured Query Language into your application devel
 This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out both Codespaces videos to learn how to get started.
 
 _See the readme file in the main branch for updated instructions and information._
+
 ## Instructions
 This repository has folders for each of the videos in the course. Each folder corresponds to a chapter and the sample file mentioned in the videos. 
 
